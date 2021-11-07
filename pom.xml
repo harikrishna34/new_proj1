@@ -21,13 +21,13 @@
     <connection>
       scm:https://github.com/harikrishna34/new_proj1/new/master
     </connection>
-    <url>@project.scm.url@</url>
+    <url>https://github.com/harikrishna34/new_proj1.git/url>
   </scm>
 
   <developers>
     <developer>
-      <name>Christopher Wellons</name>
-      <email>mosquitopsu@gmail.com</email>
+      <name>harikrishna</name>
+      <email>harilakki34@gmail.com@gmail.com</email>
       <url>http://nullprogram.com</url>
       <timezone>-5</timezone>
     </developer>
